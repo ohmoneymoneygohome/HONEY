@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - CSS only particle system</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<style>
+  @-webkit-keyframes bounce-down {
+    25% {
+      -webkit-transform: translateY(-10px);
+    }
+    50%, 100% {
+      -webkit-transform: translateY(0);
+    }
+    75% {
+      -webkit-transform: translateY(10px);
+    }
+  }
+  @keyframes bounce-down {
+    25% {
+      transform: translateY(-10px);
+    }
+    50%, 100% {
+      transform: translateY(0);
+    }
+    75% {
+      transform: translateY(10px);
+    }
+  }
+  .animate-bounce-down{
+    -webkit-animation: bounce-down 3s linear infinite;
+    animation: bounce-down 3s linear infinite;
+  }
+</style>
+<body>
+<!-- partial:index.partial.html -->
+<!-- PARTICLE SYSTEM -->
+<div class="page-bg"></div>
+
+<div class="animation-wrapper">
+  <div class="particle particle-1"></div>
+  <div class="particle particle-2"></div>
+  <div class="particle particle-3"></div>
+  <div class="particle particle-4"></div>
+</div>
+
+<div class="page-wrapper"> 
+  <h1> 老子最酷</h1>
+</div>
+
+
+
+
+
+<!-- CODEPEN PROMOTION -->
+<a class="codepen-promo animate-bounce-down" target="_blank" href="https://codepen.io/2017/popular/pens/" title="The Most Hearted of 2017"><img class="codepen-promo-image" src="AT.png" alt="The Most Hearted of 2017"></a>
+
+<!-- UNSPLASH PROMOTION -->
+<a class="unsplash-promo" target="_blank" href="https://unsplash.com/@marcusrfotografia" title="Photo by Marcus Santos">Photo by GUANGUAN</a>
+<!-- partial -->
+  
+</body>
+</html>
