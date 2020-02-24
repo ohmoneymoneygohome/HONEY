@@ -1,97 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2af316e1-66de-4b70-8ceb-4f64278d89d2" name="Default Changelist" comment="罐在生日快樂">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-only-particle-system/src/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo-entry.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo-gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo-switch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eatcake.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eatcake.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/end.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/fireworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/TODO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/fireworks_vr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/mortar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireworks/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/happy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/happyBirthday.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/eat.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquey.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/anime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/OrbitControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/VRButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/stats.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/three.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/crackle1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/crackle2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/heavy_boom1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/heavy_boom2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/light_boom1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/light_boom2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/light_boom3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/up1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/up2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/up3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fireworks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lights.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/particle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/particlepool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soundhandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sprites/spark1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sprites/spark2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HONEY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HONEY.iml" afterDir="false" />
+    <list default="true" id="2af316e1-66de-4b70-8ceb-4f64278d89d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-only-particle-system/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css-only-particle-system/src/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/happyBirthday.html" beforeDir="false" afterPath="$PROJECT_DIR$/happyBirthday.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +72,7 @@
       <updated>1579084459330</updated>
       <workItem from="1579084460546" duration="4520000" />
       <workItem from="1579252970282" duration="144000" />
-      <workItem from="1582292304630" duration="38421000" />
+      <workItem from="1582292304630" duration="40051000" />
     </task>
     <task id="LOCAL-00001" summary="HELLO WORLD DEAR HONEY">
       <created>1579084937730</created>
@@ -176,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579085344885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="罐在生日快樂">
+      <created>1582562641544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582562641544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,18 +112,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582358771349" />
-    <state x="288" y="148" key="CommitChangelistDialog2" timestamp="1582361941152">
+    <state x="288" y="148" key="CommitChangelistDialog2" timestamp="1582562634950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="288" y="148" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582361941152" />
+    <state x="288" y="148" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582562634950" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579253111594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579253111594" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579085351586">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582562664056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579085351586" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582562664056" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582386762506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

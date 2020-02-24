@@ -1738,7 +1738,7 @@
             <div class="gallery__item pieces" style="background-image: url(img/27.jpg)"></div>
 
         </div>
-        <nav class="gallery-nav">
+        <nav style="display: none" class="gallery-nav">
             <span class="gallery-nav__item gallery-nav__item--current"></span>
             <span class="gallery-nav__item"></span>
             <span class="gallery-nav__item"></span>
@@ -1850,7 +1850,7 @@
         });
         galleryItems.forEach((item) => {
             piecesObjs.push(new Pieces(item, {
-                pieces: {rows: 5, columns: 4},
+                pieces: {rows: 4, columns: 5},
                 delay: [0,175]
             }));
         });
@@ -1930,7 +1930,7 @@
 
             galleryItems[pos].style.opacity = 1;
             piecesObjs[pos].animate({
-                duration: 800,
+                duration: 3000,
                 easing: fx === 2 ? 'easeOutQuint' : 'easeInOutQuint',
                 delay: (t,i,l) => {
                     if ( fx === 0 ) {
