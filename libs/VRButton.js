@@ -139,11 +139,11 @@ var VRButton = {
 
 			if ( window.isSecureContext === false ) {
 
-				message.innerHTML = '快速点下空白的地方'; // TODO Improve message
+				message.innerHTML = '点下 空白的地方看看'; // TODO Improve message
 
 			} else {
 
-				message.innerHTML = 'WEBXR NOT AVAILABLE';
+				message.innerHTML = '点点 空白的地方看看 ';
 
 			}
 

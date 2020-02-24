@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2af316e1-66de-4b70-8ceb-4f64278d89d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/happyBirthday.html" beforeDir="false" afterPath="$PROJECT_DIR$/happyBirthday.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/VRButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/VRButton.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <updated>1579084459330</updated>
       <workItem from="1579084460546" duration="4520000" />
       <workItem from="1579252970282" duration="144000" />
-      <workItem from="1582292304630" duration="40051000" />
+      <workItem from="1582292304630" duration="40789000" />
     </task>
     <task id="LOCAL-00001" summary="HELLO WORLD DEAR HONEY">
       <created>1579084937730</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582562641544</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="罐在生日快樂">
+      <created>1582563617032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582563617032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,22 +119,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582358771349" />
-    <state x="288" y="148" key="CommitChangelistDialog2" timestamp="1582562634950">
+    <state x="288" y="148" key="CommitChangelistDialog2" timestamp="1582563614974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="288" y="148" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582562634950" />
+    <state x="288" y="148" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582563614974" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579253111594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579253111594" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582562664056">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582563623087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582562664056" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582386762506">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582563623087" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582564181518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582386762506" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582564181518" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
